@@ -8,7 +8,7 @@ Para utilizar o programa, siga os passos abaixo:
 
 1. Clone o repositório para o seu computador.
 2. Instale as dependências necessárias executando o seguinte comando: `pip install pytube`
-3. Execute o arquivo `download_youtube.py` usando o seguinte comando: `python download_youtube.py`
+3. Execute o arquivo `yt_download.py` usando o seguinte comando: `python download_youtube.py`
 4. Na interface de linha de comando, insira a URL do vídeo que deseja baixar.
 5. O programa irá baixar o vídeo na pasta atual e exibir uma mensagem de conclusão.
 
